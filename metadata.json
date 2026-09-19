@@ -1,0 +1,6 @@
+{
+  "name": "Food & Body - Digital Publishing Platform",
+  "description": "Evidence-based digital food and nutrition guides, secure checkout, automated webhook verification, and digital delivery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
